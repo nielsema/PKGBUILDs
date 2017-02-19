@@ -1,5 +1,5 @@
 pkgname=qutebrowser-nielsema
-pkgver=r11261.6ffb4e094
+pkgver=r11262.e59e7a0ab
 pkgrel=1
 pkgdesc="A keyboard-driven, vim-like browser based on PyQt5 and QtWebKit (personal fork)"
 arch=(any)
